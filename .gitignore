@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AliExpressScout/obj
+/Application/bin/Debug/net6.0
+/Application/obj
+/Dmn/Domain/bin/Debug
+/Dmn/Domain/obj
+/Scout/.vs
+/Scout/bin/Debug/net6.0
+/Scout/obj
